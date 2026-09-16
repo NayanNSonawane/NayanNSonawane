@@ -16,15 +16,15 @@ I’m a Lead Data Engineer with ~10 years of experience building scalable data p
   👥 Technical leadership, mentoring and stakeholder collaboration
 
 ### 🛠️ Tech Stack
-#  Programming & Querying
+####  Programming & Querying
   Python • SQL • PySpark • Bash
-#  ⚡ Data Engineering
+####  ⚡ Data Engineering
   Apache Spark • PySpark • Delta Lake • Apache Iceberg • Parquet • ETL/ELT • CDC • Incremental Processing
-#  ☁️ AWS 
+####  ☁️ AWS 
   S3 • Glue • Glue Data Catalog • EMR • EMR Serverless • Lambda • Step Functions • DMS • Redshift • Athena • CloudWatch • Lake Formation
-# 🔄 Orchestration & DevOps
+#### 🔄 Orchestration & DevOps
   Apache Airflow • MWAA • Git • GitHub Actions • CI/CD • CloudFormation • Sceptre
-# 🏗️ Architecture & Data Platforms
+#### 🏗️ Architecture & Data Platforms
   Data Lake • Lakehouse • Medallion Architecture • Data Mesh Concepts • Data Governance • Data Quality • Schema Evolution • Data Lineage
 
 ### 🎯 Current Focus
